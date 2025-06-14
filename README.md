@@ -27,3 +27,12 @@ A sample remote tech support website built by **Vener-De Technologies** to showc
 ---
 
 ## 📁 Folder Structure
+
+---
+
+## 💼 About the Project  
+This project is part of a growing portfolio by **Vener-De Technologies**, a service brand under Sat Retail Private Limited, focused on building affordable and scalable tech solutions for clients in the US, UK, and Australia.
+
+For inquiries:  
+📧 contact@vener-de.com  
+🌐 [www.vener-de.com](https://www.vener-de.com)
