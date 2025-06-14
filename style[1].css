@@ -1,0 +1,46 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #007acc;
+  color: white;
+  padding: 2em;
+  text-align: center;
+}
+.services, .contact, .payment {
+  padding: 2em;
+  background: white;
+  margin: 1em;
+  border-radius: 10px;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+form input, form textarea {
+  display: block;
+  width: 100%;
+  margin: 1em 0;
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button, .paypal-button {
+  padding: 0.75em 2em;
+  background: #007acc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #222;
+  color: white;
+}
